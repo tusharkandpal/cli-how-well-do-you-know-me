@@ -24,6 +24,10 @@ questions = [
   {
     que: "In which month do my birthday lie ? ",
     ans: "April"
+  },
+  {
+    que: "What's my zodiac sign ? ",
+    ans: "Libra"
   }
 ]
 
